@@ -1,6 +1,6 @@
 # Qt6 Calculator
 
-![Project Preview](display.jpg)
+![Project Preview](screenshot.jpg)
 
 ## 📝 Description
 A simple, fast, and optimized desktop calculator built with **C++** and **Qt6 framework**. This project demonstrates a clean dark-themed UI with essential mathematical operations and a responsive layout.
