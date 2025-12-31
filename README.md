@@ -21,7 +21,14 @@ You don't need to compile the code to use the app! You can download the latest p
 - **CMake**
 
 ## 🚀 How to Run (For Developers)
-1. Ensure you have **Qt6** and a **C++ compiler** installed.
-2. Clone the repository:
+1. Ensure you have **Qt6** and a **C++ compiler** (GCC/Clang/MSVC) installed. If you don't have **Qt6**:
+- **Windows:** Download the [Qt Online Installer](https://www.qt.io/download-qt-installer) and select **Qt 6.x**.
+- **Linux (Ubuntu/Debian):**
+  ```bash
+  sudo apt install qt6-base-dev qt6-declarative-dev
+  ```
+
+3. Clone the repository:
    ```bash
    git clone [https://github.com/EHSBIZ/Qt6-Calculator.git](https://github.com/EHSBIZ/Qt6-Calculator.git)
+   ```
